@@ -288,6 +288,10 @@ nav {
 	display: block;
 }
 
+.form-wrapper button {
+	cursor: pointer;
+}
+
 .form-wrapper input,
 button {
 	border-radius: 8px;
@@ -384,6 +388,7 @@ footer h4 {
 
 	.hero-introduction h2 {
 		padding-top: 10.4rem;
+		margin-top: 1.6rem;
 	}
 
 	.hero-introduction p {
